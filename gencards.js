@@ -9,11 +9,16 @@ const cardsData = JSON.parse(fs.readFileSync('./data/original/cards.json'))
 const cardsFiltered = cardsData.data.filter((card) => packCodes.includes(card['pack_code']))
 
 const cards = cardsFiltered.map((card) => {
+  let textString = ''
+  // console.log(card.title)
+  textString = card.stripped_text ?? ''
+  textString = textString.replaceAll('"',`'`)
   return {
     title: card.title,
     type_code: card.type_code,
     faction_code: card.faction_code,
     pack_code: card.pack_code,
+    stripped_text: `"${textString}"`,
   }
 })
 
