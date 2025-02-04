@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 const PERCENT_CARDS = 0.33
-const PERCENT_IDENTITIES = 0.34
+const PERCENT_IDENTITIES = 0.30
 const CHANCE_ULTS = 0.125
 const CHANCE_ORIGINAL_CORE = 0.33
 
@@ -54,6 +54,16 @@ if (Math.random() < CHANCE_ORIGINAL_CORE) {
 cube.forEach((card)=>{
   spliceFilter(cardsDB,(c) => c.title === card.title)
 })
+
+//after core sets have been picked de-dup the database
+for(let i = 0; i < cardsDB.length; i++) {
+  for(let j = i+1; j < cardsDB.length; j++) {
+    if (cardsDB[i].title === cardsDB[j].title) {
+      cardsDB.splice(j,1)
+      j--
+    }
+  }
+}
 
 let workingSet = []
 
@@ -403,8 +413,16 @@ console.log(JSON.stringify(cube.map((c)=>{return c.title})))
 
 const simplifiedCube = cube.map((c)=> c.title)
 
-let output = ''
-
-simplifiedCube.forEach((card) => output += `${card}\n`)
+function toCSV(json) {
+  json = Object.values(json);
+  var csv = "";
+  var keys = (json[0] && Object.keys(json[0])) || [];
+  csv += keys.join(',') + '\n';
+  for (var line of json) {
+    csv += keys.map(key => line[key]).join(',') + '\n';
+  }
+  return csv;
+}
 
 fs.writeFileSync('./output/cube.json', JSON.stringify(simplifiedCube))
+fs.writeFileSync('./output/cube.csv', toCSV(cube))

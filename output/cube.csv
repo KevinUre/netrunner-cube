@@ -1,0 +1,507 @@
+title,type_code,faction_code,pack_code
+Nathaniel "Gnat" Hall: One-of-a-Kind,identity,anarch,rar
+Omar Keung: Conspiracy Theorist,identity,anarch,es
+Reina Roja: Freedom Fighter,identity,anarch,core2
+Valencia Estevez: The Angel of Cayambe,identity,anarch,oac
+Day Job,event,anarch,oac
+Demolition Run,event,anarch,core2
+Déjà Vu,event,anarch,core
+Fear the Masses,event,anarch,ftm
+Frame Job,event,anarch,om
+Hacktivist Meeting,event,anarch,bb
+Immolation Script,event,anarch,cc
+Political Graffiti,event,anarch,dag
+Power to the People,event,anarch,uot
+Pushing the Envelope,event,anarch,dc
+Queen's Gambit,event,anarch,dt
+Retrieval Run,event,anarch,core2
+Rumor Mill,event,anarch,bm
+Singularity,event,anarch,core2
+Stimhack,event,anarch,core2
+The Noble Path,event,anarch,tlm
+Archives Interface,hardware,anarch,oac
+Cyberfeeder,hardware,anarch,core2
+Ekomind,hardware,anarch,atr
+Grimoire,hardware,anarch,core
+Maw,hardware,anarch,dc
+Obelus,hardware,anarch,es
+Respirocytes,hardware,anarch,cd
+Skulljack,hardware,anarch,cc
+Spinal Modem,hardware,anarch,core2
+Berserker,program,anarch,eas
+Bishop,program,anarch,st
+Cerberus "Cuj.0" H3,program,anarch,atr
+Clot,program,anarch,val
+Corroder,program,anarch,core
+Cradle,program,anarch,rar
+Darwin,program,anarch,core2
+Datasucker,program,anarch,core2
+Diwan,program,anarch,bf
+Force of Nature,program,anarch,core2
+Hemorrhage,program,anarch,core2
+Imp,program,anarch,core2
+Knight,program,anarch,mt
+Mimic,program,anarch,core2
+Morning Star,program,anarch,core2
+Nerve Agent,program,anarch,ce
+Nfr,program,anarch,bm
+Parasite,program,anarch,core
+Persephone,program,anarch,eas
+Plague,program,anarch,dtwn
+Wyrm,program,anarch,core
+Clan Vengeance,resource,anarch,so
+Counter Surveillance,resource,anarch,so
+Crypt,resource,anarch,cotc
+Duggar's,resource,anarch,fc
+Hard at Work,resource,anarch,st
+Ice Carver,resource,anarch,core2
+Jarogniew Mercs,resource,anarch,baw
+Joshua B.,resource,anarch,ce
+Liberated Account,resource,anarch,core2
+Salvaged Vanadis Armory,resource,anarch,cd
+Scrubber,resource,anarch,core2
+Stim Dealer,resource,anarch,oac
+Tallie Perrault,resource,anarch,fal
+Xanadu,resource,anarch,core2
+Gabriel Santiago: Consummate Professional,identity,criminal,core2
+Iain Stirling: Retired Spook,identity,criminal,hap
+Liza Talking Thunder: Prominent Legislator,identity,criminal,rar
+Nero Severn: Information Broker,identity,criminal,dag
+Calling in Favors,event,criminal,hap
+Credit Kiting,event,criminal,dtwn
+Easy Mark,event,criminal,core2
+Emergency Shutdown,event,criminal,core2
+Exclusive Party,event,criminal,si
+Falsified Credentials,event,criminal,tdatd
+Forged Activation Orders,event,criminal,core2
+High-Stakes Job,event,criminal,kg
+Inside Job,event,criminal,core2
+Leverage,event,criminal,tc
+Möbius,event,criminal,so
+On the Lam,event,criminal,ml
+Running Interference,event,criminal,mt
+Satellite Uplink,event,criminal,ta
+Special Order,event,criminal,core2
+Spot the Prey,event,criminal,dc
+Three Steps Ahead,event,criminal,tsb
+Unscheduled Maintenance,event,criminal,tsb
+Box-E,hardware,criminal,fc
+Desperado,hardware,criminal,core
+Doppelgänger,hardware,criminal,core2
+Forger,hardware,criminal,uw
+HQ Interface,hardware,criminal,core2
+Polyhistor,hardware,criminal,td
+Recon Drone,hardware,criminal,qu
+Reflection,hardware,criminal,dag
+Silencer,hardware,criminal,dt
+Spy Camera,hardware,criminal,dag
+Aumakua,program,criminal,cd
+Aurora,program,criminal,core2
+Bankroll,program,criminal,rar
+Breach,program,criminal,hap
+Copycat,program,criminal,st
+Crowbar,program,criminal,cc
+Faerie,program,criminal,core2
+Femme Fatale,program,criminal,core2
+Golden,program,criminal,bm
+Grappling Hook,program,criminal,hap
+Ninja,program,criminal,core
+Passport,program,criminal,hap
+Peacock,program,criminal,core2
+Pheromones,program,criminal,core2
+Saker,program,criminal,in
+Sneakdoor Beta,program,criminal,core2
+Spike,program,criminal,val
+Tycoon,program,criminal,rar
+Vamadeva,program,criminal,si
+Aaron Marrón,resource,criminal,qu
+Bank Job,resource,criminal,core2
+Charlatan,resource,criminal,td
+Crash Space,resource,criminal,core2
+Data Dealer,resource,criminal,core
+Enhanced Vision,resource,criminal,val
+Fall Guy,resource,criminal,core2
+Keros Mcintyre,resource,criminal,baw
+Lewi Guilherme,resource,criminal,ss
+Mr. Li,resource,criminal,core2
+Security Testing,resource,criminal,hap
+Slipstream,resource,criminal,win
+The Supplier,resource,criminal,fc
+Theophilius Bagbiter,resource,criminal,hap
+Tri-maf Contact,resource,criminal,hap
+Akiko Nisei: Head Case,identity,shaper,rar
+Chaos Theory: Wünderkind,identity,shaper,core2
+Kabonesa Wu: Netspace Thrillseeker,identity,shaper,dtwn
+Rielle “Kit” Peddler: Transhuman,identity,shaper,cac
+Cold Read,event,shaper,ml
+Diesel,event,shaper,core2
+Escher,event,shaper,cac
+Game Day,event,shaper,bb
+Indexing,event,shaper,core2
+Lean and Mean,event,shaper,fm
+Levy AR Lab Access,event,shaper,cac
+Modded,event,shaper,core2
+Net Celebrity,event,shaper,tsb
+Notoriety,event,shaper,core2
+Quality Time,event,shaper,hs
+Reshape,event,shaper,cd
+System Seizure,event,shaper,so
+Test Run,event,shaper,core2
+The Maker’s Eye,event,shaper,core2
+Tinkering,event,shaper,core2
+Akamatsu Mem Chip,hardware,shaper,core
+Astrolabe,hardware,shaper,uao
+Clone Chip,hardware,shaper,cac
+Daredevil,hardware,shaper,baw
+Dedicated Processor,hardware,shaper,eas
+Dinosaurus,hardware,shaper,core2
+Gebrselassie,hardware,shaper,win
+Lockpick,hardware,shaper,om
+Mind's Eye,hardware,shaper,rar
+Mâché,hardware,shaper,rar
+Rabbit Hole,hardware,shaper,core2
+The Personal Touch,hardware,shaper,core2
+Ubax,hardware,shaper,td
+Alpha,program,shaper,fal
+Atman,program,shaper,cac
+Battering Ram,program,shaper,core2
+Creeper,program,shaper,hs
+Customized Secretary,program,shaper,so
+DaVinci,program,shaper,uot
+Dai V,program,shaper,23s
+Egret,program,shaper,td
+Fawkes,program,shaper,qu
+Gordian Blade,program,shaper,core2
+Houdini,program,shaper,es
+Kyuban,program,shaper,rar
+Laamb,program,shaper,win
+Magnum Opus,program,shaper,core2
+Misdirection,program,shaper,ml
+Nyashia,program,shaper,tdatd
+Panchatantra,program,shaper,kg
+Paricia,program,shaper,cac
+Pipeline,program,shaper,core2
+Savant,program,shaper,td
+Self-modifying Code,program,shaper,cac
+Takobi,program,shaper,dtwn
+Upya,program,shaper,ss
+Aesop’s Pawnshop,resource,shaper,core2
+Algo Trading,resource,shaper,bm
+All-nighter,resource,shaper,core2
+Ice Analyzer,resource,shaper,cac
+Laguna Velasco District,resource,shaper,td
+Net Mercur,resource,shaper,es
+Personal Workshop,resource,shaper,ce
+Professional Contacts,resource,shaper,cac
+Reclaim,resource,shaper,ka
+Sacrificial Construct,resource,shaper,core2
+Temple of the Liberated Mind,resource,shaper,tlm
+Tyson Observatory,resource,shaper,bb
+Blackmail,event,neutral-runner,fal
+Build Script,event,neutral-runner,so
+Deuces Wild,event,neutral-runner,23s
+Infiltration,event,neutral-runner,core2
+Peace in Our Time,event,neutral-runner,qu
+Populist Rally,event,neutral-runner,bf
+Sure Gamble,event,neutral-runner,core2
+Traffic Jam,event,neutral-runner,val
+Dyson Mem Chip,hardware,neutral-runner,core2
+Sports Hopper,hardware,neutral-runner,si
+Crypsis,program,neutral-runner,core2
+Armitage Codebusting,resource,neutral-runner,core2
+Bazaar,resource,neutral-runner,si
+Bloo Moose,resource,neutral-runner,fm
+Citadel Sanctuary,resource,neutral-runner,in
+Corporate Defector,resource,neutral-runner,cd
+Councilman,resource,neutral-runner,dag
+Daily Casts,resource,neutral-runner,cac
+Kati Jones,resource,neutral-runner,hs
+New Angeles City Hall,resource,neutral-runner,fp
+Officer Frank,resource,neutral-runner,td
+Public Sympathy,resource,neutral-runner,ce
+Symmetrical Visage,resource,neutral-runner,val
+Technical Writer,resource,neutral-runner,dad
+The Turning Wheel,resource,neutral-runner,tlm
+Underworld Contact,resource,neutral-runner,core2
+Utopia Shard,resource,neutral-runner,atr
+Cybernetics Division: Humanity Upgraded,identity,haas-bioroid,cc
+Haas-Bioroid: Stronger Together,identity,haas-bioroid,core2
+NEXT Design: Guarding the Net,identity,haas-bioroid,cac
+Sportsmetal: Go Big or Go Home,identity,haas-bioroid,rar
+Accelerated Beta Test,agenda,haas-bioroid,core
+Elective Upgrade,agenda,haas-bioroid,td
+Hyperloop Extension,agenda,haas-bioroid,rar
+Project Ares,agenda,haas-bioroid,core2
+Project Vitruvius,agenda,haas-bioroid,core2
+Project Wotan,agenda,haas-bioroid,cac
+Remote Enforcement,agenda,haas-bioroid,win
+Research Grant,agenda,haas-bioroid,bb
+Sentinel Defense Program,agenda,haas-bioroid,cac
+Archived Memories,operation,haas-bioroid,core2
+Biotic Labor,operation,haas-bioroid,core2
+Fast Break,operation,haas-bioroid,rar
+Game Changer,operation,haas-bioroid,rar
+Green Level Clearance,operation,haas-bioroid,core2
+Hellion Alpha Test,operation,haas-bioroid,st
+Kill Switch,operation,haas-bioroid,tdatd
+Load Testing,operation,haas-bioroid,so
+O₂ Shortage,operation,haas-bioroid,fm
+Peak Efficiency,operation,haas-bioroid,uao
+Shipment from MirrorMorph,operation,haas-bioroid,core2
+Ultraviolet Clearance,operation,haas-bioroid,td
+Adonis Campaign,asset,haas-bioroid,core2
+Aggressive Secretary,asset,haas-bioroid,core2
+Encryption Protocol,asset,haas-bioroid,ta
+Haas Arcology AI,asset,haas-bioroid,cac
+Isabel McGuire,asset,haas-bioroid,mt
+MCA Austerity Policy,asset,haas-bioroid,cd
+Ronald Five,asset,haas-bioroid,oh
+Test Ground,asset,haas-bioroid,uw
+Thomas Haas,asset,haas-bioroid,cac
+Warden Fatuma,asset,haas-bioroid,win
+Ash 2X3ZB9CY,upgrade,haas-bioroid,core2
+Awakening Center,upgrade,haas-bioroid,cac
+Corporate Troubleshooter,upgrade,haas-bioroid,core
+Panic Button,upgrade,haas-bioroid,tc
+Ruhr Valley,upgrade,haas-bioroid,fp
+Ryon Knight,upgrade,haas-bioroid,cc
+Strongbox,upgrade,haas-bioroid,core2
+Architect,ice,haas-bioroid,uao
+Eli 1.0,ice,haas-bioroid,fp
+Enforcer 1.0,ice,haas-bioroid,oh
+Executive Functioning,ice,haas-bioroid,td
+Fairchild 1.0,ice,haas-bioroid,23s
+Fenris,ice,haas-bioroid,tc
+Gyri Labyrinth,ice,haas-bioroid,dt
+Heimdall 1.0,ice,haas-bioroid,core2
+Hudson 1.0,ice,haas-bioroid,core2
+Ichi 1.0,ice,haas-bioroid,core2
+Ichi 2.0,ice,haas-bioroid,cac
+NEXT Bronze,ice,haas-bioroid,om
+NEXT Diamond,ice,haas-bioroid,ka
+NEXT Gold,ice,haas-bioroid,val
+NEXT Silver,ice,haas-bioroid,up
+Rototurret,ice,haas-bioroid,core2
+Seidr Adaptive Barrier,ice,haas-bioroid,so
+Sherlock 2.0,ice,haas-bioroid,23s
+Vikram 1.0,ice,haas-bioroid,kg
+Viktor 1.0,ice,haas-bioroid,core2
+Zed 2.0,ice,haas-bioroid,dc
+Jinteki Biotech: Life Imagined,identity,jinteki,val
+Jinteki: Personal Evolution,identity,jinteki,core2
+Mti Mwekundu: Life Improved,identity,jinteki,ka
+Nisei Division: The Next Generation,identity,jinteki,hap
+Braintrust,agenda,jinteki,core2
+Genetic Resequencing,agenda,jinteki,val
+House of Knives,agenda,jinteki,hap
+Mandatory Seed Replacement,agenda,jinteki,fm
+Medical Breakthrough,agenda,jinteki,hap
+Nisei MK II,agenda,jinteki,core2
+Project Kusanagi,agenda,jinteki,es
+Viral Weaponization,agenda,jinteki,win
+An Offer You Can't Refuse,operation,jinteki,oh
+Celebrity Gift,operation,jinteki,core2
+Hangeki,operation,jinteki,rar
+Medical Research Fundraiser,operation,jinteki,hap
+Mutate,operation,jinteki,up
+Neural EMP,operation,jinteki,core2
+Shipment from Tennin,operation,jinteki,baw
+Trick of Light,operation,jinteki,core2
+Voter Intimidation,operation,jinteki,ftm
+API-S Keeper Isobel,asset,jinteki,rar
+Breached Dome,asset,jinteki,cd
+Chairman Hiro,asset,jinteki,hap
+Hostile Infrastructure,asset,jinteki,atr
+Political Dealings,asset,jinteki,dag
+Project Junebug,asset,jinteki,core2
+Pālanā Agroplex,asset,jinteki,bf
+Ronin,asset,jinteki,core2
+Shock!,asset,jinteki,tc
+Snare!,asset,jinteki,core2
+Synth DNA Modification,asset,jinteki,dc
+Bamboo Dome,upgrade,jinteki,eas
+Code Replicator,upgrade,jinteki,cotc
+Georgia Emelyov,upgrade,jinteki,23s
+Hokusai Grid,upgrade,jinteki,core2
+Nihongai Grid,upgrade,jinteki,ml
+Tori Hanzō,upgrade,jinteki,hap
+Ashigaru,ice,jinteki,uao
+Clairvoyant Monitor,ice,jinteki,cc
+DNA Tracker,ice,jinteki,es
+Envelope,ice,jinteki,win
+Himitsu-Bako,ice,jinteki,core2
+It's a Trap!,ice,jinteki,oh
+Kakugo,ice,jinteki,dc
+Lockdown,ice,jinteki,cc
+Lotus Field,ice,jinteki,up
+Mirāju,ice,jinteki,baw
+Mlinzi,ice,jinteki,ka
+Neural Katana,ice,jinteki,core2
+Otoroshi,ice,jinteki,rar
+Sadaka,ice,jinteki,tdatd
+Sensei,ice,jinteki,ta
+Swordsman,ice,jinteki,core2
+Thimblerig,ice,jinteki,rar
+Wall of Thorns,ice,jinteki,core2
+Whirlpool,ice,jinteki,core2
+Yagura,ice,jinteki,core2
+Harishchandra Ent.: Where You're the Star,identity,nbn,ftm
+NBN: Controlling the Message,identity,nbn,23s
+NBN: Making News,identity,nbn,core2
+New Angeles Sol: Your News,identity,nbn,dad
+Degree Mill,agenda,nbn,cotc
+Net Quarantine,agenda,nbn,qu
+Project Beale,agenda,nbn,core2
+Puppet Master,agenda,nbn,tlm
+Quantum Predictive Model,agenda,nbn,dad
+Reeducation,agenda,nbn,baw
+Restructured Datapool,agenda,nbn,wla
+TGTBT,agenda,nbn,core2
+Anonymous Tip,operation,nbn,core2
+Closed Accounts,operation,nbn,core2
+Corporate Shuffle,operation,nbn,dt
+Hatchet Job,operation,nbn,bm
+Midseason Replacements,operation,nbn,fp
+Predictive Algorithm,operation,nbn,val
+Psychographics,operation,nbn,core2
+SEA Source,operation,nbn,core2
+Self-Growth Program,operation,nbn,ss
+Service Outage,operation,nbn,es
+Special Report,operation,nbn,bm
+Sweeps Week,operation,nbn,tc
+Targeted Marketing,operation,nbn,tsb
+Threat Assessment,operation,nbn,dtwn
+Alexa Belsky,asset,nbn,es
+Aryabhata Tech,asset,nbn,si
+CPC Generator,asset,nbn,so
+City Surveillance,asset,nbn,mt
+Early Premiere,asset,nbn,oh
+Ghost Branch,asset,nbn,core2
+Lily Lockwell,asset,nbn,dad
+Net Analytics,asset,nbn,dc
+Net Police,asset,nbn,asis
+Reality Threedee,asset,nbn,dad
+Shannon Claire,asset,nbn,dad
+Arella Salvatore,upgrade,nbn,rar
+Bernice Mai,upgrade,nbn,core2
+ChiLo City Grid,upgrade,nbn,ta
+Drone Screen,upgrade,nbn,in
+Red Herrings,upgrade,nbn,core2
+Traffic Analyzer,upgrade,nbn,baw
+Authenticator,ice,nbn,eas
+Data Hound,ice,nbn,hs
+Data Raven,ice,nbn,core2
+Data Ward,ice,nbn,in
+Flare,ice,nbn,core2
+Herald,ice,nbn,qu
+Jua,ice,nbn,dtwn
+Little Engine,ice,nbn,cc
+Muckraker,ice,nbn,st
+Pop-up Window,ice,nbn,core2
+RSVP,ice,nbn,tc
+Snoop,ice,nbn,mt
+Special Offer,ice,nbn,dad
+Tollbooth,ice,nbn,core2
+Uroboros,ice,nbn,asis
+Wraparound,ice,nbn,core2
+Blue Sun: Powering the Future,identity,weyland-consortium,uao
+Weyland Consortium: Because We Built It,identity,weyland-consortium,asis
+Weyland Consortium: Builder of Nations,identity,weyland-consortium,bm
+Weyland Consortium: Building a Better World,identity,weyland-consortium,core2
+Armored Servers,agenda,weyland-consortium,td
+City Works Project,agenda,weyland-consortium,tdatd
+Crisis Management,agenda,weyland-consortium,23s
+Geothermal Fracking,agenda,weyland-consortium,om
+Government Contracts,agenda,weyland-consortium,asis
+Government Takeover,agenda,weyland-consortium,oac
+Hostile Takeover,agenda,weyland-consortium,core2
+Project Atlas,agenda,weyland-consortium,core2
+Standoff,agenda,weyland-consortium,baw
+The Cleaners,agenda,weyland-consortium,core2
+BOOM!,operation,weyland-consortium,es
+Beanstalk Royalties,operation,weyland-consortium,core2
+Commercialization,operation,weyland-consortium,ce
+Consulting Visit,operation,weyland-consortium,tlm
+Hunter Seeker,operation,weyland-consortium,td
+Oversight AI,operation,weyland-consortium,asis
+Priority Construction,operation,weyland-consortium,cd
+Punitive Counterstrike,operation,weyland-consortium,core2
+Sacrifice,operation,weyland-consortium,so
+Scorched Earth,operation,weyland-consortium,core
+Shipment from Kaguya,operation,weyland-consortium,core2
+Success,operation,weyland-consortium,baw
+Trojan Horse,operation,weyland-consortium,cotc
+Witness Tampering,operation,weyland-consortium,dt
+Anson Rose,asset,weyland-consortium,ml
+C.I. Fund,asset,weyland-consortium,bm
+Capital Investors,asset,weyland-consortium,val
+Dedicated Response Team,asset,weyland-consortium,core2
+Elizabeth Mills,asset,weyland-consortium,core2
+GRNDL Refinery,asset,weyland-consortium,core2
+Mark Yale,asset,weyland-consortium,oac
+Mr. Stone,asset,weyland-consortium,td
+Mumbad Construction Co.,asset,weyland-consortium,bf
+Public Support,asset,weyland-consortium,uot
+Quarantine System,asset,weyland-consortium,dc
+The Board,asset,weyland-consortium,oac
+The Root,asset,weyland-consortium,up
+Expo Grid,upgrade,weyland-consortium,uot
+Forced Connection,upgrade,weyland-consortium,dtwn
+Simone Diego,upgrade,weyland-consortium,hs
+Surat City Grid,upgrade,weyland-consortium,dag
+Archer,ice,weyland-consortium,core2
+Bloodletter,ice,weyland-consortium,td
+Bulwark,ice,weyland-consortium,in
+Burke Bugs,ice,weyland-consortium,fp
+Caduceus,ice,weyland-consortium,core2
+Changeling,ice,weyland-consortium,uao
+Colossus,ice,weyland-consortium,td
+Formicary,ice,weyland-consortium,rar
+Hadrian's Wall,ice,weyland-consortium,core2
+Hive,ice,weyland-consortium,core2
+Ice Wall,ice,weyland-consortium,core2
+Lycan,ice,weyland-consortium,atr
+Mausolus,ice,weyland-consortium,ml
+Meru Mati,ice,weyland-consortium,bb
+Negotiator,ice,weyland-consortium,val
+Oduduwa,ice,weyland-consortium,tdatd
+Salvage,ice,weyland-consortium,hs
+Shadow,ice,weyland-consortium,core2
+Tithonium,ice,weyland-consortium,fm
+Chronos Project,agenda,neutral-corp,fc
+Eden Fragment,agenda,neutral-corp,tsb
+False Lead,agenda,neutral-corp,core2
+Gila Hands Arcology,agenda,neutral-corp,cac
+Global Food Initiative,agenda,neutral-corp,dad
+Merger,agenda,neutral-corp,ftm
+Priority Requisition,agenda,neutral-corp,core2
+Private Security Force,agenda,neutral-corp,core2
+Bad Times,operation,neutral-corp,up
+Best Defense,operation,neutral-corp,in
+Cyberdex Trial,operation,neutral-corp,om
+Distract the Masses,operation,neutral-corp,dtwn
+Hedge Fund,operation,neutral-corp,core2
+Restructure,operation,neutral-corp,st
+Rover Algorithm,operation,neutral-corp,fm
+Scarcity of Resources,operation,neutral-corp,es
+Melange Mining Corp.,asset,neutral-corp,core2
+Mumba Temple,asset,neutral-corp,kg
+Museum of History,asset,neutral-corp,kg
+PAD Campaign,asset,neutral-corp,core2
+Rashida Jaheem,asset,neutral-corp,tdatd
+Sandburg,asset,neutral-corp,23s
+Tech Startup,asset,neutral-corp,val
+TechnoCo,asset,neutral-corp,cotc
+Mumbad Virtual Tour,upgrade,neutral-corp,si
+Signal Jamming,upgrade,neutral-corp,dc
+Underway Grid,upgrade,neutral-corp,uw
+Assassin,ice,neutral-corp,dad
+Enigma,ice,neutral-corp,core2
+Galahad,ice,neutral-corp,up
+Hunter,ice,neutral-corp,core2
+Macrophage,ice,neutral-corp,qu
+Mother Goddess,ice,neutral-corp,up
+Quandary,ice,neutral-corp,dt
+Rainbow,ice,neutral-corp,hap
+Vanilla,ice,neutral-corp,tlm
+Wall of Static,ice,neutral-corp,core2
