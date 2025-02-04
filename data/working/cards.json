@@ -1,0 +1,9206 @@
+[
+  {
+    "title": "Noise: Hacker Extraordinaire",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Déjà Vu",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Demolition Run",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Stimhack",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Cyberfeeder",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Grimoire",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Corroder",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Datasucker",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Djinn",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Medium",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Mimic",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Parasite",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Wyrm",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Yog.0",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Ice Carver",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Wyldside",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "core"
+  },
+  {
+    "title": "Gabriel Santiago: Consummate Professional",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Account Siphon",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Easy Mark",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Forged Activation Orders",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Inside Job",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Special Order",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Lemuria Codecracker",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Desperado",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Aurora",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Femme Fatale",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Ninja",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Sneakdoor Beta",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Bank Job",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Crash Space",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Data Dealer",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Decoy",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core"
+  },
+  {
+    "title": "Kate \"Mac\" McCaffrey: Digital Tinker",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Diesel",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Modded",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "The Maker’s Eye",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Tinkering",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Akamatsu Mem Chip",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Rabbit Hole",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "The Personal Touch",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "The Toolbox",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Battering Ram",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Gordian Blade",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Magnum Opus",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Net Shield",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Pipeline",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Aesop’s Pawnshop",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Sacrificial Construct",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "core"
+  },
+  {
+    "title": "Infiltration",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "core"
+  },
+  {
+    "title": "Sure Gamble",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "core"
+  },
+  {
+    "title": "Crypsis",
+    "type_code": "program",
+    "faction_code": "neutral-runner",
+    "pack_code": "core"
+  },
+  {
+    "title": "Access to Globalsec",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "core"
+  },
+  {
+    "title": "Armitage Codebusting",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "core"
+  },
+  {
+    "title": "Haas-Bioroid: Engineering the Future",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Accelerated Beta Test",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Adonis Campaign",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Aggressive Secretary",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Archived Memories",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Biotic Labor",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Shipment from MirrorMorph",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Heimdall 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Ichi 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Viktor 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Rototurret",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Corporate Troubleshooter",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Experiential Data",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core"
+  },
+  {
+    "title": "Jinteki: Personal Evolution",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Nisei MK II",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Project Junebug",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Snare!",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Zaibatsu Loyalty",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Neural EMP",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Precognition",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Cell Portal",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Chum",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Data Mine",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Neural Katana",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Wall of Thorns",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "Akitaro Watanabe",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "core"
+  },
+  {
+    "title": "NBN: Making News",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "AstroScript Pilot Program",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Breaking News",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Anonymous Tip",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Closed Accounts",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Psychographics",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "SEA Source",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Ghost Branch",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Data Raven",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Matrix Analyzer",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Tollbooth",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Red Herrings",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "SanSan City Grid",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "core"
+  },
+  {
+    "title": "Weyland Consortium: Building a Better World",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Hostile Takeover",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Posted Bounty",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Security Subcontract",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Aggressive Negotiation",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Beanstalk Royalties",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Scorched Earth",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Shipment from Kaguya",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Archer",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Hadrian's Wall",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Ice Wall",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Shadow",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Research Station",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core"
+  },
+  {
+    "title": "Priority Requisition",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "Private Security Force",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "Melange Mining Corp.",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "PAD Campaign",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "Hedge Fund",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "Enigma",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "Hunter",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "Wall of Static",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "core"
+  },
+  {
+    "title": "Whizzard: Master Gamer",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Spinal Modem",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Imp",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Morning Star",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Cortez Chip",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Peacock",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "wla"
+  },
+  {
+    "title": "ZU.13 Key Master",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "wla"
+  },
+  {
+    "title": "The Helpful AI",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Plascrete Carapace",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Haas-Bioroid: Stronger Together",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Mandatory Upgrades",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Janus 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Ash 2X3ZB9CY",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Braintrust",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Snowflake",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Restructured Datapool",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "wla"
+  },
+  {
+    "title": "TMI",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Project Atlas",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Caduceus",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Dracō",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "wla"
+  },
+  {
+    "title": "Vamp",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Liberated Account",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Satellite Uplink",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "ta"
+  },
+  {
+    "title": "e3 Feedback Implants",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Compromised Employee",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Notoriety",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Snowball",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Dyson Mem Chip",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Encryption Protocol",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Sherlock 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Jinteki: Replicating Perfection",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Fetal AI",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Trick of Light",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Sensei",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Big Brother",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "ta"
+  },
+  {
+    "title": "ChiLo City Grid",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Power Grid Overload",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Amazon Industrial Zone",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Executive Retreat",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Freelancer",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "ta"
+  },
+  {
+    "title": "Nerve Agent",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Joshua B.",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Emergency Shutdown",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Muresh Bodysuit",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Snitch",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Chaos Theory: Wünderkind",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Test Run",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Dinosaurus",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Personal Workshop",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Public Sympathy",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Project Vitruvius",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Viper",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Edge of World",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Sunset",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Marked Accounts",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Pop-up Window",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Woodcutter",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Commercialization",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Private Contracts",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Chimera",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "ce"
+  },
+  {
+    "title": "Disrupter",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Force of Nature",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Scrubber",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Doppelgänger",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Crescentus",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Deus X",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "asis"
+  },
+  {
+    "title": "All-nighter",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Inside Man",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Underworld Contact",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Green Level Clearance",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Hourglass",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Dedicated Server",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Bullfrog",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Uroboros",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Net Police",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Weyland Consortium: Because We Built It",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Government Contracts",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Tyrant",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Oversight AI",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "asis"
+  },
+  {
+    "title": "False Lead",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "asis"
+  },
+  {
+    "title": "Surge",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Xanadu",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Andromeda: Dispossessed Ristie",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Networking",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hs"
+  },
+  {
+    "title": "HQ Interface",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Pheromones",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Quality Time",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Replicator",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Creeper",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Kraken",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Kati Jones",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Eve Campaign",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Rework",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Whirlpool",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Hokusai Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Data Hound",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Bernice Mai",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Salvage",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Simone Diego",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Foxfire",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "hs"
+  },
+  {
+    "title": "Retrieval Run",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Darwin",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Data Leak Reversal",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Faerie",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Mr. Li",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Indexing",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "fp"
+  },
+  {
+    "title": "R&D Interface",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Deep Thought",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "fp"
+  },
+  {
+    "title": "New Angeles City Hall",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Eli 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Ruhr Valley",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Ronin",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Midori",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "fp"
+  },
+  {
+    "title": "NBN: The World is Yours*",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Project Beale",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Midseason Replacements",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Flare",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Dedicated Response Team",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Burke Bugs",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Corporate War",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "fp"
+  },
+  {
+    "title": "Cerebral Imaging: Infinite Frontiers",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Custom Biotics: Engineered for Success",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "NEXT Design: Guarding the Net",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Director Haas' Pet Project",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Efficiency Committee",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Project Wotan",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Sentinel Defense Program",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Alix T4LB07",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Cerebral Overwriter",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Director Haas",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Haas Arcology AI",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Thomas Haas",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Bioroid Efficiency Research",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Successful Demonstration",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Heimdall 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Howler",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Ichi 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Minelayer",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Viktor 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Zed 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Awakening Center",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Tyr's Hand",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Gila Hands Arcology",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Levy University",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Server Diagnostics",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Bastion",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Datapike",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Rielle “Kit” Peddler: Transhuman",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "The Professor: Keeper of Knowledge",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Exile: Streethawk",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Escher",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Exploratory Romp",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Freelance Coding Contract",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Scavenge",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Levy AR Lab Access",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Monolith",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Feedback Filter",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Clone Chip",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Omni-drive",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Atman",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Cloak",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Dagger",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Chakana",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Cyber-Cypher",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Paricia",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Self-modifying Code",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Sahasrara",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Inti",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Professional Contacts",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Borrowed Satellite",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Ice Analyzer",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Dirty Laundry",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Daily Casts",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Same Old Thing",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "cac"
+  },
+  {
+    "title": "The Source",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "cac"
+  },
+  {
+    "title": "Frame Job",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "om"
+  },
+  {
+    "title": "Pawn",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "om"
+  },
+  {
+    "title": "Rook",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "om"
+  },
+  {
+    "title": "Hostage",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "om"
+  },
+  {
+    "title": "Gorman Drip v1",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "om"
+  },
+  {
+    "title": "Lockpick",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "om"
+  },
+  {
+    "title": "False Echo",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "om"
+  },
+  {
+    "title": "Motivation",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "om"
+  },
+  {
+    "title": "John Masanori",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "om"
+  },
+  {
+    "title": "Project Ares",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "om"
+  },
+  {
+    "title": "NEXT Bronze",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "om"
+  },
+  {
+    "title": "Celebrity Gift",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "om"
+  },
+  {
+    "title": "Himitsu-Bako",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "om"
+  },
+  {
+    "title": "Character Assassination",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "om"
+  },
+  {
+    "title": "Jackson Howard",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "om"
+  },
+  {
+    "title": "Invasion of Privacy",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "om"
+  },
+  {
+    "title": "Geothermal Fracking",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "om"
+  },
+  {
+    "title": "Swarm",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "om"
+  },
+  {
+    "title": "Cyberdex Trial",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "om"
+  },
+  {
+    "title": "Grim",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "om"
+  },
+  {
+    "title": "Bishop",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "st"
+  },
+  {
+    "title": "Scheherazade",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "st"
+  },
+  {
+    "title": "Hard at Work",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "st"
+  },
+  {
+    "title": "Recon",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "st"
+  },
+  {
+    "title": "Copycat",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "st"
+  },
+  {
+    "title": "Leviathan",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "st"
+  },
+  {
+    "title": "Eureka!",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "st"
+  },
+  {
+    "title": "Record Reconstructor",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "st"
+  },
+  {
+    "title": "Prepaid VoicePAD",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "st"
+  },
+  {
+    "title": "Wotan",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "st"
+  },
+  {
+    "title": "Hellion Alpha Test",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "st"
+  },
+  {
+    "title": "Clone Retirement",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "st"
+  },
+  {
+    "title": "Swordsman",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "st"
+  },
+  {
+    "title": "Shipment from SanSan",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "st"
+  },
+  {
+    "title": "Muckraker",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "st"
+  },
+  {
+    "title": "The Cleaners",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "st"
+  },
+  {
+    "title": "Elizabeth Mills",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "st"
+  },
+  {
+    "title": "Off the Grid",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "st"
+  },
+  {
+    "title": "Profiteering",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "st"
+  },
+  {
+    "title": "Restructure",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "st"
+  },
+  {
+    "title": "Reina Roja: Freedom Fighter",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Deep Red",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Knight",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Running Interference",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Expert Schedule Analyzer",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Grifter",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Torch",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Woman in the Red Dress",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Raymond Flint",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Isabel McGuire",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Hudson 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Accelerated Diagnostics",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Unorthodox Predictions",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Sundew",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "mt"
+  },
+  {
+    "title": "City Surveillance",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Snoop",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Ireress",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Power Shutdown",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Paper Wall",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Interns",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "mt"
+  },
+  {
+    "title": "Keyhole",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Activist Support",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Lawyer Up",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Leverage",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Garrote",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "tc"
+  },
+  {
+    "title": "LLDS Processor",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Sharpshooter",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Capstone",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Starlight Crusade Funding",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Rex Campaign",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Fenris",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Panic Button",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Shock!",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Tsurugi",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "tc"
+  },
+  {
+    "title": "TGTBT",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Sweeps Week",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "tc"
+  },
+  {
+    "title": "RSVP",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Curtain Wall",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Punitive Counterstrike",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Veterans Program",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "tc"
+  },
+  {
+    "title": "Quest Completed",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Hemorrhage",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Tallie Perrault",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Executive Wiretaps",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Blackguard",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "fal"
+  },
+  {
+    "title": "CyberSolutions Mem Chip",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Alpha",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Omega",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Blackmail",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Blue Level Clearance",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Strongbox",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Toshiyuki Sakai",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Yagura",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Restoring Face",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Market Research",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Wraparound",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "fal"
+  },
+  {
+    "title": "GRNDL: Power Unleashed",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Vulcan Coverup",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fal"
+  },
+  {
+    "title": "GRNDL Refinery",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Subliminal Messaging",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "fal"
+  },
+  {
+    "title": "Singularity",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Queen's Gambit",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Dyson Fractal Generator",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Silencer",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Savoir-faire",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Fall Guy",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Power Nap",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Paintbrush",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Lucky Find",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Gyri Labyrinth",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Reclamation Order",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Broadcast Square",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Corporate Shuffle",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Caprice Nisei",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Shinobi",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Marker",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Hive",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Witness Tampering",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dt"
+  },
+  {
+    "title": "NAPD Contract",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Quandary",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "dt"
+  },
+  {
+    "title": "Harmony Medtech: Biomedical Pioneer",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Nisei Division: The Next Generation",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Tennin Institute: The Secrets Within",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "House of Knives",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Medical Breakthrough",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Philotic Entanglement",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "The Future Perfect",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Chairman Hiro",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Mental Health Clinic",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Psychic Field",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Shi.Kyū",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Tenma Line",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Cerebral Cast",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Medical Research Fundraiser",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Mushin No Shin",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Inazuma",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Komainu",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Pup",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Shiro",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Susanoo-no-Mikoto",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "NeoTokyo Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Tori Hanzō",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Plan B",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Guard",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Rainbow",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Diversified Portfolio",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Fast Track",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Iain Stirling: Retired Spook",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Ken “Express” Tenma: Disappeared Clone",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Silhouette: Stealth Operative",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Calling in Favors",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Early Bird",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Express Delivery",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Feint",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Legwork",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Planned Assault",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Logos",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Public Terminal",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Unregistered S&W '35",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Window",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Alias",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Breach",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Bug",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Gingerbread",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Grappling Hook",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Passport",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Push Your Luck",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Security Testing",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Theophilius Bagbiter",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Tri-maf Contact",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Mass Install",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Q-Coherence Chip",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Overmind",
+    "type_code": "program",
+    "faction_code": "neutral-runner",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Oracle May",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Donut Taganes",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "hap"
+  },
+  {
+    "title": "Domestic Sleepers",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "up"
+  },
+  {
+    "title": "NEXT Silver",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "up"
+  },
+  {
+    "title": "Lotus Field",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "up"
+  },
+  {
+    "title": "Mutate",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "up"
+  },
+  {
+    "title": "Near-Earth Hub: Broadcast Center",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "up"
+  },
+  {
+    "title": "Primary Transmission Dish",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "up"
+  },
+  {
+    "title": "Midway Station Grid",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "up"
+  },
+  {
+    "title": "The Root",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "up"
+  },
+  {
+    "title": "Taurus",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "up"
+  },
+  {
+    "title": "Mother Goddess",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "up"
+  },
+  {
+    "title": "Galahad",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "up"
+  },
+  {
+    "title": "Bad Times",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "up"
+  },
+  {
+    "title": "Cyber Threat",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "up"
+  },
+  {
+    "title": "Lamprey",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "up"
+  },
+  {
+    "title": "Paper Tripping",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "up"
+  },
+  {
+    "title": "Power Tap",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "up"
+  },
+  {
+    "title": "Nasir Meidan: Cyber Explorer",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "up"
+  },
+  {
+    "title": "Social Engineering",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "up"
+  },
+  {
+    "title": "Leprechaun",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "up"
+  },
+  {
+    "title": "Eden Shard",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "up"
+  },
+  {
+    "title": "The Foundry: Refining the Process",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Enhanced Login Protocol",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Heinlein Grid",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Encrypted Portals",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Cerebral Static",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Targeted Marketing",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Information Overload",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Paywall Implementation",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Sealed Vault",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Eden Fragment",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Lag Time",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Will-o'-the-Wisp",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "D4v1d",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Scrubbed",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Three Steps Ahead",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Unscheduled Maintenance",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Cache",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Net Celebrity",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "LLDS Energy Regulator",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "Ghost Runner",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "tsb"
+  },
+  {
+    "title": "IQ",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Eliza's Toybox",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Kitsune",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Port Anson Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "fc"
+  },
+  {
+    "title": "The News Now Hour",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Manhunt",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Wendigo",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Crisium Grid",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Chronos Project",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Shattered Remains",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Lancelot",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Quetzal: Free Spirit",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "fc"
+  },
+  {
+    "title": "BlacKat",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Duggar's",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Box-E",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "fc"
+  },
+  {
+    "title": "The Supplier",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Refractor",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Order of Sol",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Hades Shard",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Rachel Beckman",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "fc"
+  },
+  {
+    "title": "Architect",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Peak Efficiency",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Labyrinthine Servers",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Ashigaru",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Mamba",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Reversed Accounts",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Universal Connectivity Fee",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Blue Sun: Powering the Future",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Changeling",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Reuse",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Hades Fragment",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Docklands Crackdown",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Inject",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Origami",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Fester",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Autoscripter",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Switchblade",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Trade-In",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Astrolabe",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Angel Arena",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "uao"
+  },
+  {
+    "title": "Bifrost Array",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Sagittarius",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Hostile Infrastructure",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Gemini",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "atr"
+  },
+  {
+    "title": "License Acquisition",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Daily Business Show",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Superior Cyberwalls",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Executive Boot Camp",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Lycan",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Snatch and Grab",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Merlin",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Shell Corporation",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Ekomind",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Cerberus \"Cuj.0\" H3",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Leela Patel: Trained Pragmatist",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Cerberus \"Rex\" H2",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Zona Sul Shipping",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Cybsoft MacroDrive",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Cerberus \"Lady\" H1",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Utopia Shard",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "atr"
+  },
+  {
+    "title": "Helium-3 Deposit",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Errand Boy",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ts"
+  },
+  {
+    "title": "IT Department",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Markus 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Industrial Genomics: Growing Solutions",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Turtlebacks",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Shoot the Moon",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Troll",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Virgo",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Utopia Fragment",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Excalibur",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Self-destruct",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Incubator",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Ixodidae",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Code Siphon",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Collective Consciousness",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Sage",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Bribery",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Au Revoir",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Earthrise Hotel",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "ts"
+  },
+  {
+    "title": "Argus Security: Protection Guaranteed",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Gagarin Deep Space: Expanding the Horizon",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Titan Transnational: Investing In Your Future",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Firmware Updates",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Glenn Station",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Government Takeover",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "High-Risk Investment",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Constellation Protocol",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Mark Yale",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Space Camp",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "The Board",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Asteroid Belt",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Wormhole",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Nebula",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Orion",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Builder",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Checkpoint",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Fire Wall",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Searchlight",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Housekeeping",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Patch",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Traffic Accident",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Satellite Grid",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "The Twins",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Sub Boost",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Dedicated Technician Team",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Cyberdex Virus Suite",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Edward Kim: Humanity's Hammer",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "MaxX: Maximum Punk Rock",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Valencia Estevez: The Angel of Cayambe",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Amped Up",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "I've Had Worse",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Itinerant Protesters",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Showing Off",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Wanton Destruction",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Day Job",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Forked",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Knifed",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Spooned",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Eater",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Gravedigger",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Hivemind",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Progenitor",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Archives Interface",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Chop Bot 3000",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "MemStrips",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Vigil",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Human First",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Investigative Journalism",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Sacrificial Clone",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Stim Dealer",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Virus Breeding Ground",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Uninstall",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Qianju PT",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Data Folding",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "oac"
+  },
+  {
+    "title": "Clot",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "val"
+  },
+  {
+    "title": "Paige Piper",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "val"
+  },
+  {
+    "title": "Adjusted Chronotype",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "val"
+  },
+  {
+    "title": "Spike",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "val"
+  },
+  {
+    "title": "Enhanced Vision",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "val"
+  },
+  {
+    "title": "Gene Conditioning Shoppe",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "val"
+  },
+  {
+    "title": "Synthetic Blood",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "val"
+  },
+  {
+    "title": "Traffic Jam",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "val"
+  },
+  {
+    "title": "Symmetrical Visage",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "val"
+  },
+  {
+    "title": "Brain-Taping Warehouse",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "val"
+  },
+  {
+    "title": "NEXT Gold",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "val"
+  },
+  {
+    "title": "Jinteki Biotech: Life Imagined",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "val"
+  },
+  {
+    "title": "Genetic Resequencing",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "val"
+  },
+  {
+    "title": "Cortex Lock",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "val"
+  },
+  {
+    "title": "Valley Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "val"
+  },
+  {
+    "title": "Bandwidth",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "val"
+  },
+  {
+    "title": "Predictive Algorithm",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "val"
+  },
+  {
+    "title": "Capital Investors",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "val"
+  },
+  {
+    "title": "Negotiator",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "val"
+  },
+  {
+    "title": "Tech Startup",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "val"
+  },
+  {
+    "title": "Hacktivist Meeting",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Off-Campus Apartment",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Career Fair",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Dorm Computer",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Hayley Kaplan: Universal Scholar",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Game Day",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Comet",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Study Guide",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "bb"
+  },
+  {
+    "title": "London Library",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Tyson Observatory",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Beach Party",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Research Grant",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Turing",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Crick",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Recruiting Trip",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Blacklist",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Gutenberg",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Student Loans",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Meru Mati",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Breaker Bay Grid",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "bb"
+  },
+  {
+    "title": "Immolation Script",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Skulljack",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Turntable",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Chrome Parlor",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Titanium Ribs",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Crowbar",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Net-Ready Eyes",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Analog Dreamers",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Brain Cage",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Cybernetics Division: Humanity Upgraded",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Self-Destruct Chips",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Lab Dog",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Oaktown Grid",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Ryon Knight",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Clairvoyant Monitor",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Lockdown",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Little Engine",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Oaktown Renovation",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Corporate Town",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Quicksand",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "cc"
+  },
+  {
+    "title": "Faust",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Street Peddler",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Armand \"Geist\" Walker: Tech Lord",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Drive By",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Forger",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Shiv",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Gang Sign",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Muertos Gang Member",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Chameleon",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Hyperdriver",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Test Ground",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Defective Brainchips",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Allele Repression",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Marcus Batty",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Exposé",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Pachinko",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Underway Renovation",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Contract Killer",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Spiderweb",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Underway Grid",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "uw"
+  },
+  {
+    "title": "Trope",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Spoilers",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Drug Dealer",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Rolodex",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Fan Site",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Film Critic",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Paparazzi",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Ronald Five",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Enforcer 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "oh"
+  },
+  {
+    "title": "It's a Trap!",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "oh"
+  },
+  {
+    "title": "An Offer You Can't Refuse",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Haarpsichord Studios: Entertainment Unleashed",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Award Bait",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Explode-a-palooza",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Early Premiere",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Casting Call",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Old Hollywood Grid",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Hollywood Renovation",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Back Channels",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Vanity Project",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "oh"
+  },
+  {
+    "title": "Power to the People",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Surfer",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "uot"
+  },
+  {
+    "title": "DDoS",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Laramy Fisk: Savvy Investor",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Fisk Investment Seminar",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Bookmark",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "uot"
+  },
+  {
+    "title": "DaVinci",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Wireless Net Pavilion",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Cybernetics Court",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Team Sponsorship",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Chronos Protocol: Selective Mind-mapping",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Ancestral Imager",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Genetics Pavilion",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Franchise City",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Product Placement",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Worlds Plaza",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Public Support",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Tour Guide",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uot"
+  },
+  {
+    "title": "Expo Grid",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "uot"
+  },
+  {
+    "title": "The Future is Now",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "uot"
+  },
+  {
+    "title": "SYNC: Everything, Everywhere",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "New Angeles Sol: Your News",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Spark Agency: Worldswide Reach",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "15 Minutes",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Improved Tracers",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Rebranding Team",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Quantum Predictive Model",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Lily Lockwell",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "News Team",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Shannon Claire",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Victoria Jenkins",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Reality Threedee",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Archangel",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "News Hound",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Resistor",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Special Offer",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "TL;DR",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Turnpike",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "24/7 News Cycle",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Ad Blitz",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Media Blitz",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "The All-Seeing I",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Surveillance Sweep",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Keegan Lane",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Rutherford Grid",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Global Food Initiative",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Launch Campaign",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Assassin",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Apex: Invasive Predator",
+    "type_code": "identity",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Apocalypse",
+    "type_code": "event",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Prey",
+    "type_code": "event",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Heartbeat",
+    "type_code": "hardware",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Endless Hunger",
+    "type_code": "program",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Harbinger",
+    "type_code": "program",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Hunting Grounds",
+    "type_code": "resource",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Wasteland",
+    "type_code": "resource",
+    "faction_code": "apex",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Adam: Compulsive Hacker",
+    "type_code": "identity",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Independent Thinking",
+    "type_code": "event",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Brain Chip",
+    "type_code": "hardware",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Multithreader",
+    "type_code": "program",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Always Be Running",
+    "type_code": "resource",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Dr. Lovegood",
+    "type_code": "resource",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Neutralize All Threats",
+    "type_code": "resource",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Safety First",
+    "type_code": "resource",
+    "faction_code": "adam",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Sunny Lebeau: Security Specialist",
+    "type_code": "identity",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Security Chip",
+    "type_code": "hardware",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Security Nexus",
+    "type_code": "hardware",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "GS Striker M1",
+    "type_code": "program",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "GS Shrike M2",
+    "type_code": "program",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "GS Sherman M3",
+    "type_code": "program",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Globalsec Security Clearance",
+    "type_code": "resource",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Jak Sinclair",
+    "type_code": "resource",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Employee Strike",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Windfall",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Technical Writer",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "dad"
+  },
+  {
+    "title": "Run Amok",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Ramujan-reliant 550 BMI",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Street Magic",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "kg"
+  },
+  {
+    "title": "High-Stakes Job",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Mongoose",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Jesminder Sareen: Girl Behind the Curtain",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Maya",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Panchatantra",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Artist Colony",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Chatterjee University",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Advanced Concept Hopper",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Vikram 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Heritage Committee",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Mumbad City Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Kala Ghoda Real TV",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Interrupt 0",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Dedication Ceremony",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Mumba Temple",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "kg"
+  },
+  {
+    "title": "Museum of History",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "kg"
+  },
+  {
+    "title": "EMP Device",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Diwan",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "bf"
+  },
+  {
+    "title": "CBI Raid",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Tech Trader",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "bf"
+  },
+  {
+    "title": "NetChip",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Corporate Scandal",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Populist Rally",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Advanced Assembly Lines",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Lakshmi Smartfabrics",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Product Recall",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Pālanā Foods: Sustainable Growth",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Pālanā Agroplex",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Harvester",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Remote Data Farm",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Disposable HQ",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "bf"
+  },
+  {
+    "title": "New Construction",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Mumbad Construction Co.",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Corporate Sales Team",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "bf"
+  },
+  {
+    "title": "PAD Factory",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "bf"
+  },
+  {
+    "title": "Political Graffiti",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Nero Severn: Information Broker",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Reflection",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Spy Camera",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Political Operative",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Sadyojata",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "dag"
+  },
+  {
+    "title": "\"Freedom Through Equality\"",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Akshara Sareen",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Councilman",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Voting Machine Initiative",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Clone Suffrage Movement",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Bio-Ethics Association",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Political Dealings",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "dag"
+  },
+  {
+    "title": "\"Clones are not People\"",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Sensie Actors Union",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Commercial Bankers Group",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Mumbad City Hall",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Bailiff",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Surat City Grid",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dag"
+  },
+  {
+    "title": "Making an Entrance",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "si"
+  },
+  {
+    "title": "Salsette Slums",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "si"
+  },
+  {
+    "title": "Exclusive Party",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "si"
+  },
+  {
+    "title": "Vamadeva",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "si"
+  },
+  {
+    "title": "Brahman",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "si"
+  },
+  {
+    "title": "Patron",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "si"
+  },
+  {
+    "title": "Sports Hopper",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "si"
+  },
+  {
+    "title": "Bazaar",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "si"
+  },
+  {
+    "title": "Personality Profiles",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "si"
+  },
+  {
+    "title": "Jeeves Model Bioroids",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "si"
+  },
+  {
+    "title": "Raman Rai",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "si"
+  },
+  {
+    "title": "Upayoga",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "si"
+  },
+  {
+    "title": "Aryabhata Tech",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "si"
+  },
+  {
+    "title": "Salem's Hospitality",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "si"
+  },
+  {
+    "title": "Executive Search Firm",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "si"
+  },
+  {
+    "title": "Indian Union Stock Exchange",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "si"
+  },
+  {
+    "title": "Cobra",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "si"
+  },
+  {
+    "title": "Localized Product Line",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "si"
+  },
+  {
+    "title": "Mumbad Virtual Tour",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "si"
+  },
+  {
+    "title": "The Noble Path",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Emptied Mind",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Information Sifting",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Out of the Ashes",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Liberated Chela",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Temple of the Liberated Mind",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Rebirth",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Guru Davinder",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "The Turning Wheel",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Brainstorm",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Ravana 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Dedicated Neural Net",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Chetana",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Puppet Master",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Waiver",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Exchange of Information",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Red Tape",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Consulting Visit",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Vanilla",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "tlm"
+  },
+  {
+    "title": "Fear the Masses",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Aghora",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Bhagat",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "The Black File",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "The Price of Freedom",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Ankusa",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Rigged Results",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Magnet",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Lateral Growth",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Improved Protein Source",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Voter Intimidation",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Harishchandra Ent.: Where You're the Star",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Full Immersion RecStudio",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Ibrahim Salem",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Navi Mumbai City Grid",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Zealous Judge",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Election Day",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Subcontract",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "Merger",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "ftm"
+  },
+  {
+    "title": "System Outage",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Null: Whistleblower",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "23s"
+  },
+  {
+    "title": "GPI Net Tap",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Hernando Cortez",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Mirror",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Dai V",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Another Day, Another Paycheck",
+    "type_code": "event",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Deuces Wild",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Injection Attack",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Fairchild 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Sherlock 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Hyoubu Research Facility",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Chrysalis",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Georgia Emelyov",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Watchdog",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Hard-Hitting News",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "23s"
+  },
+  {
+    "title": "NBN: Controlling the Message",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Crisis Management",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Stock Buy-Back",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Sandburg",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "23s"
+  },
+  {
+    "title": "Credit Crash",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Rumor Mill",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Nfr",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Paperclip",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Golden",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Temüjin Contract",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Khan: Savvy Skiptracer",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Data Breach",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Algo Trading",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Beth Kilrain-Chang",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Fairchild 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Aiki",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Enforcing Loyalty",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Hatchet Job",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Special Report",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "bm"
+  },
+  {
+    "title": "C.I. Fund",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Liquidation",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Weyland Consortium: Builder of Nations",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Financial Collapse",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Prisec",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "bm"
+  },
+  {
+    "title": "Obelus",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "es"
+  },
+  {
+    "title": "Black Orchestra",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "es"
+  },
+  {
+    "title": "Omar Keung: Conspiracy Theorist",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "es"
+  },
+  {
+    "title": "Peregrine",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "es"
+  },
+  {
+    "title": "Houdini",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "es"
+  },
+  {
+    "title": "Net Mercur",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "es"
+  },
+  {
+    "title": "Find the Truth",
+    "type_code": "resource",
+    "faction_code": "adam",
+    "pack_code": "es"
+  },
+  {
+    "title": "First Responders",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "es"
+  },
+  {
+    "title": "Fairchild 3.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "es"
+  },
+  {
+    "title": "Ark Lockdown",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "es"
+  },
+  {
+    "title": "Hellion Beta Test",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "es"
+  },
+  {
+    "title": "Project Kusanagi",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "es"
+  },
+  {
+    "title": "DNA Tracker",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "es"
+  },
+  {
+    "title": "Jinteki: Potential Unleashed",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "es"
+  },
+  {
+    "title": "Alexa Belsky",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "es"
+  },
+  {
+    "title": "Observe and Destroy",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "es"
+  },
+  {
+    "title": "Service Outage",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "es"
+  },
+  {
+    "title": "BOOM!",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "es"
+  },
+  {
+    "title": "Door to Door",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "es"
+  },
+  {
+    "title": "Scarcity of Resources",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "es"
+  },
+  {
+    "title": "En Passant",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "in"
+  },
+  {
+    "title": "Frantic Coding",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "in"
+  },
+  {
+    "title": "The Gauntlet",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "in"
+  },
+  {
+    "title": "Saker",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "in"
+  },
+  {
+    "title": "Blockade Runner",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "in"
+  },
+  {
+    "title": "Ele \"Smoke\" Scovak: Cynosure of the Net",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "in"
+  },
+  {
+    "title": "Top Hat",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "in"
+  },
+  {
+    "title": "Blackstone",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "in"
+  },
+  {
+    "title": "Government Investigations",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "in"
+  },
+  {
+    "title": "Citadel Sanctuary",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "in"
+  },
+  {
+    "title": "Wetwork Refit",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "in"
+  },
+  {
+    "title": "Haas-Bioroid: Architects of Tomorrow",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "in"
+  },
+  {
+    "title": "Fumiko Yamamori",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "in"
+  },
+  {
+    "title": "Hasty Relocation",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "in"
+  },
+  {
+    "title": "Data Ward",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "in"
+  },
+  {
+    "title": "Drone Screen",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "in"
+  },
+  {
+    "title": "Chief Slee",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "in"
+  },
+  {
+    "title": "Bulwark",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "in"
+  },
+  {
+    "title": "Best Defense",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "in"
+  },
+  {
+    "title": "Preemptive Action",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "in"
+  },
+  {
+    "title": "MKUltra",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "ml"
+  },
+  {
+    "title": "On the Lam",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Cold Read",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Equivocation",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Misdirection",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Reaver",
+    "type_code": "program",
+    "faction_code": "apex",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Interdiction",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Baba Yaga",
+    "type_code": "program",
+    "faction_code": "neutral-runner",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Fairchild",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Friends in High Places",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Manta Grid",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Mind Game",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Nihongai Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "ml"
+  },
+  {
+    "title": "IP Block",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Thoth",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Anson Rose",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Mausolus",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Sapper",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Show of Force",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Enforced Curfew",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "ml"
+  },
+  {
+    "title": "Şifr",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Sūnya",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Recon Drone",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Tapwrm",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Tracker",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Aaron Marrón",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Encore",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Fawkes",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Peace in Our Time",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Sensor Net Activation",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Violet Level Clearance",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Chiyashi",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Psychokinesis",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Net Quarantine",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Herald",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Veritas",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Bryan Stinson",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "qu"
+  },
+  {
+    "title": "NASX",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Macrophage",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Tribunal",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "qu"
+  },
+  {
+    "title": "Pushing the Envelope",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Maw",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "dc"
+  },
+  {
+    "title": "The Archivist",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Exploit",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Spot the Prey",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Bio-Modeled Network",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Network Exchange",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Mad Dash",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "dc"
+  },
+  {
+    "title": "NEXT Wave 2",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Zed 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Defense Construct",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Synth DNA Modification",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Kakugo",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Net Analytics",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "dc"
+  },
+  {
+    "title": "SYNC BRE",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Jemison Astronautics: Sacrifice. Audacity. Success.",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Quarantine System",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Oberth Protocol",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Khondi Plaza",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Signal Jamming",
+    "type_code": "upgrade",
+    "faction_code": "neutral-corp",
+    "pack_code": "dc"
+  },
+  {
+    "title": "Severnius Stim Implant",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "so"
+  },
+  {
+    "title": "Clan Vengeance",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "so"
+  },
+  {
+    "title": "Counter Surveillance",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "so"
+  },
+  {
+    "title": "Möbius",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "so"
+  },
+  {
+    "title": "Los: Data Hijacker",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "so"
+  },
+  {
+    "title": "System Seizure",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "so"
+  },
+  {
+    "title": "Customized Secretary",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "so"
+  },
+  {
+    "title": "Build Script",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "so"
+  },
+  {
+    "title": "Seidr Adaptive Barrier",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "so"
+  },
+  {
+    "title": "Nerine 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "so"
+  },
+  {
+    "title": "Load Testing",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "so"
+  },
+  {
+    "title": "Bloom",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "so"
+  },
+  {
+    "title": "Replanting",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "so"
+  },
+  {
+    "title": "CPC Generator",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "so"
+  },
+  {
+    "title": "Free Lunch",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "so"
+  },
+  {
+    "title": "MCA Informant",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "so"
+  },
+  {
+    "title": "Clyde Van Rite",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "so"
+  },
+  {
+    "title": "Watchtower",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "so"
+  },
+  {
+    "title": "Sacrifice",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "so"
+  },
+  {
+    "title": "Self-Adapting Code Wall",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "so"
+  },
+  {
+    "title": "Berserker",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Persephone",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Rubicon Switch",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Aeneas Informant",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Rosetta 2.0",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Adjusted Matrix",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Dedicated Processor",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Inversificator",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Dadiana Chacon",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "eas"
+  },
+  {
+    "title": "NEXT Opal",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Bioroid Work Crew",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "eas"
+  },
+  {
+    "title": "AgInfusion: New Miracles for a New World",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Bamboo Dome",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Ben Musashi",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Authenticator",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Henry Phillips",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Battlement",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Audacity",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Red Planet Couriers",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Owl",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "eas"
+  },
+  {
+    "title": "Alice Merchant: Clan Agitator",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Jarogniew Mercs",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Māui",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Bug Out Bag",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Keros Mcintyre",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Daredevil",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Mass-Driver",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Warroid Tracker",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Loki",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Obokata Protocol",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Mirāju",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Shipment from Tennin",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Escalate Vitriol",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Reeducation",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Traffic Analyzer",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Meteor Mining",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Standoff",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Success",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Whampoa Reclamation",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Mass Commercialization",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "baw"
+  },
+  {
+    "title": "Mars for Martians",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "fm"
+  },
+  {
+    "title": "God of War",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Leave No Trace",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Rip Deal",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Flashbang",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Lean and Mean",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Maven",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Na'Not'K",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Bloo Moose",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "fm"
+  },
+  {
+    "title": "O₂ Shortage",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Helheim Servers",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Mandatory Seed Replacement",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Water Monopoly",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Metamorph",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Data Loop",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Biased Reporting",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Open Forum",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Tithonium",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Transparency Initiative",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Rover Algorithm",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "fm"
+  },
+  {
+    "title": "Mining Accident",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Respirocytes",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Salvaged Vanadis Armory",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Aumakua",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Caldera",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Diana's Hunt",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Reshape",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Dummy Box",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Corporate Defector",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "cd"
+  },
+  {
+    "title": "CFC Excavation Contract",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cd"
+  },
+  {
+    "title": "MCA Austerity Policy",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Restore",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Breached Dome",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Sand Storm",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "cd"
+  },
+  {
+    "title": "AR-Enhanced Security",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Rolling Brownout",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Threat Level Alpha",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Priority Construction",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Fractal Threat Matrix",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Conundrum",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "cd"
+  },
+  {
+    "title": "Steve Cambridge: Master Grifter",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Brute-Force-Hack",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Spear Phishing",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "SYN Attack",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Polyhistor",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Abagnale",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Lustig",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Demara",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Mammon",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Charlatan",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Maxwell James",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "td"
+  },
+  {
+    "title": "Ayla “Bios” Rahim: Simulant Specialist",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Careful Planning",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Deep Data Mining",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "LLDS Memory Diamond",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Ubax",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Adept",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Savant",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Egret",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Dhegdheer",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Levy Advanced Research Lab",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Laguna Velasco District",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "td"
+  },
+  {
+    "title": "Process Automation",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "td"
+  },
+  {
+    "title": "Officer Frank",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "td"
+  },
+  {
+    "title": "Dean Lister",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "td"
+  },
+  {
+    "title": "Biometric Spoofing",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "td"
+  },
+  {
+    "title": "The Shadow Net",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "td"
+  },
+  {
+    "title": "Seidr Laboratories: Destiny Defined",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Brain Rewiring",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Elective Upgrade",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Successful Field Test",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Estelle Moon",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Marilyn Campaign",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Eli 2.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Executive Functioning",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Holmegaard",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Tapestry",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Ultraviolet Clearance",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Black Level Clearance",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Mason Bellamy",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "td"
+  },
+  {
+    "title": "Skorpios Defense Systems: Persuasive Power",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Armored Servers",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Illicit Sales",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Graft",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Illegal Arms Factory",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Mr. Stone",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Bloodletter",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Colossus",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Hailstorm",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Hortum",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Hunter Seeker",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "K. P. Lynn",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "td"
+  },
+  {
+    "title": "Paper Trail",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "td"
+  },
+  {
+    "title": "Honeyfarm",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "td"
+  },
+  {
+    "title": "Long-Term Investment",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "td"
+  },
+  {
+    "title": "Weir",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "td"
+  },
+  {
+    "title": "IPO",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "td"
+  },
+  {
+    "title": "Reina Roja: Freedom Fighter",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Demolition Run",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Retrieval Run",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Singularity",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Stimhack",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Cyberfeeder",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Spinal Modem",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Darwin",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Datasucker",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Force of Nature",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Imp",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hemorrhage",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Mimic",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Morning Star",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Ice Carver",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Liberated Account",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Scrubber",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Xanadu",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Gabriel Santiago: Consummate Professional",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Easy Mark",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Emergency Shutdown",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Forged Activation Orders",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Inside Job",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Special Order",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Doppelgänger",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "HQ Interface",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Aurora",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Faerie",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Femme Fatale",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Peacock",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Pheromones",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Sneakdoor Beta",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Bank Job",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Crash Space",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Fall Guy",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Mr. Li",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Chaos Theory: Wünderkind",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Diesel",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Indexing",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Modded",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Notoriety",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Test Run",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "The Maker’s Eye",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Tinkering",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Dinosaurus",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Rabbit Hole",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "The Personal Touch",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Battering Ram",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Gordian Blade",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Magnum Opus",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Pipeline",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Aesop’s Pawnshop",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "All-nighter",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Sacrificial Construct",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Infiltration",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Sure Gamble",
+    "type_code": "event",
+    "faction_code": "neutral-runner",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Dyson Mem Chip",
+    "type_code": "hardware",
+    "faction_code": "neutral-runner",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Crypsis",
+    "type_code": "program",
+    "faction_code": "neutral-runner",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Armitage Codebusting",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Underworld Contact",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Haas-Bioroid: Stronger Together",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Project Ares",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Project Vitruvius",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Adonis Campaign",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Aggressive Secretary",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Heimdall 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hudson 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Ichi 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Rototurret",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Viktor 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Archived Memories",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Biotic Labor",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Green Level Clearance",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Shipment from MirrorMorph",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Ash 2X3ZB9CY",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Strongbox",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Weyland Consortium: Building a Better World",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hostile Takeover",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Project Atlas",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "The Cleaners",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Dedicated Response Team",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Elizabeth Mills",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "GRNDL Refinery",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Archer",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Caduceus",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hadrian's Wall",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hive",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Ice Wall",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Shadow",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Beanstalk Royalties",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Punitive Counterstrike",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Shipment from Kaguya",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Jinteki: Personal Evolution",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Braintrust",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Nisei MK II",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Project Junebug",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Ronin",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Snare!",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Himitsu-Bako",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Neural Katana",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Swordsman",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Wall of Thorns",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Whirlpool",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Yagura",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Celebrity Gift",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Neural EMP",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Trick of Light",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hokusai Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "core2"
+  },
+  {
+    "title": "NBN: Making News",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Project Beale",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "TGTBT",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Ghost Branch",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Data Raven",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Flare",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Pop-up Window",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Tollbooth",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Wraparound",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Anonymous Tip",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Closed Accounts",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Psychographics",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "SEA Source",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Red Herrings",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Bernice Mai",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "core2"
+  },
+  {
+    "title": "False Lead",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Priority Requisition",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Private Security Force",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Melange Mining Corp.",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "PAD Campaign",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Enigma",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hunter",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Wall of Static",
+    "type_code": "ice",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "Hedge Fund",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "core2"
+  },
+  {
+    "title": "By Any Means",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Yusuf",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Zamba",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Puffer",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Lewi Guilherme",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Cyberdelia",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Upya",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Assimilator",
+    "type_code": "resource",
+    "faction_code": "apex",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Asa Group: Security Through Vigilance",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Ikawah Project",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Najja 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Gene Splicer",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Mganga",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Genotyping",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Echo Chamber",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Self-Growth Program",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Calibration Testing",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Urban Renewal",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Wake Up Call",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Reconstruction Contract",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ss"
+  },
+  {
+    "title": "Acacia",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Plague",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Credit Kiting",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Wari",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Kabonesa Wu: Netspace Thrillseeker",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Takobi",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Kongamato",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Emergent Creativity",
+    "type_code": "event",
+    "faction_code": "adam",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "RNG Key",
+    "type_code": "program",
+    "faction_code": "neutral-runner",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Nightdancer",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Jinja City Grid",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Aimor",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Bacterial Programming",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Jua",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Threat Assessment",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Economic Warfare",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Forced Connection",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "SSL Endorsement",
+    "type_code": "agenda",
+    "faction_code": "neutral-corp",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "NGO Front",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "Distract the Masses",
+    "type_code": "operation",
+    "faction_code": "neutral-corp",
+    "pack_code": "dtwn"
+  },
+  {
+    "title": "eXer",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Friday Chip",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Crypt",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Corporate \"Grant\"",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "No One Home",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Marathon",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Gbahali",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "White Hat",
+    "type_code": "event",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Kuwinda K4H1U3",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "NEXT Sapphire",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Anansi",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Code Replicator",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Reverse Infection",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Azmari EdTech: Shaping the Future",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Degree Mill",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Personalized Portal",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Armed Intimidation",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Death and Taxes",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Trojan Horse",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "TechnoCo",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "cotc"
+  },
+  {
+    "title": "Glut Cipher",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Knobkierie",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "419: Amoral Scammer",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Falsified Credentials",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Rogue Trading",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Because I Can",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Nyashia",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Consume",
+    "type_code": "program",
+    "faction_code": "apex",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Malia Z0L0K4",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Kill Switch",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Tempus",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Bio Vault",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Sadaka",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Endless EULA",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Sandman",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Amani Senai",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "SSO Industries: Fueling Innovation",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "City Works Project",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Oduduwa",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Rashida Jaheem",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "tdatd"
+  },
+  {
+    "title": "Freedom Khumalo: Crypto-Anarchist",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "win"
+  },
+  {
+    "title": "Trypano",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "win"
+  },
+  {
+    "title": "Contaminate",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "win"
+  },
+  {
+    "title": "Embezzle",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "win"
+  },
+  {
+    "title": "Slipstream",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "win"
+  },
+  {
+    "title": "Laamb",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "win"
+  },
+  {
+    "title": "Gebrselassie",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "win"
+  },
+  {
+    "title": "Compile",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "win"
+  },
+  {
+    "title": "Logic Bomb",
+    "type_code": "resource",
+    "faction_code": "adam",
+    "pack_code": "win"
+  },
+  {
+    "title": "Jackpot!",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "win"
+  },
+  {
+    "title": "Remote Enforcement",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "win"
+  },
+  {
+    "title": "Kamali 1.0",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "win"
+  },
+  {
+    "title": "Warden Fatuma",
+    "type_code": "asset",
+    "faction_code": "haas-bioroid",
+    "pack_code": "win"
+  },
+  {
+    "title": "Viral Weaponization",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "win"
+  },
+  {
+    "title": "Envelope",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "win"
+  },
+  {
+    "title": "Mwanza City Grid",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "win"
+  },
+  {
+    "title": "Standard Procedure",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "win"
+  },
+  {
+    "title": "Intake",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "win"
+  },
+  {
+    "title": "Masvingo",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "win"
+  },
+  {
+    "title": "Overseer Matrix",
+    "type_code": "upgrade",
+    "faction_code": "weyland-consortium",
+    "pack_code": "win"
+  },
+  {
+    "title": "Zer0",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Musaazi",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Hippo",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Amina",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Diversion of Funds",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "ka"
+  },
+  {
+    "title": "PAD Tap",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Reclaim",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Engolo",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Flame-out",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Black Hat",
+    "type_code": "event",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Kasi String",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "ka"
+  },
+  {
+    "title": "NEXT Diamond",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Riot Suppression",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Mti Mwekundu: Life Improved",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Mlinzi",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Better Citizen Program",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Market Forces",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Surveyor",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ka"
+  },
+  {
+    "title": "High-Profile Target",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ka"
+  },
+  {
+    "title": "False Flag",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "ka"
+  },
+  {
+    "title": "Nathaniel \"Gnat\" Hall: One-of-a-Kind",
+    "type_code": "identity",
+    "faction_code": "anarch",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Divide and Conquer",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Guinea Pig",
+    "type_code": "event",
+    "faction_code": "anarch",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Patchwork",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Hijacked Router",
+    "type_code": "hardware",
+    "faction_code": "anarch",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Cradle",
+    "type_code": "program",
+    "faction_code": "anarch",
+    "pack_code": "rar"
+  },
+  {
+    "title": "District 99",
+    "type_code": "resource",
+    "faction_code": "anarch",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Liza Talking Thunder: Prominent Legislator",
+    "type_code": "identity",
+    "faction_code": "criminal",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Hot Pursuit",
+    "type_code": "event",
+    "faction_code": "criminal",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Paragon",
+    "type_code": "hardware",
+    "faction_code": "criminal",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Bankroll",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Tycoon",
+    "type_code": "program",
+    "faction_code": "criminal",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Thunder Art Gallery",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Miss Bones",
+    "type_code": "resource",
+    "faction_code": "criminal",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Akiko Nisei: Head Case",
+    "type_code": "identity",
+    "faction_code": "shaper",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Insight",
+    "type_code": "event",
+    "faction_code": "shaper",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Mind's Eye",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Mâché",
+    "type_code": "hardware",
+    "faction_code": "shaper",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Ika",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Kyuban",
+    "type_code": "program",
+    "faction_code": "shaper",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Psych Mike",
+    "type_code": "resource",
+    "faction_code": "shaper",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Algernon",
+    "type_code": "program",
+    "faction_code": "adam",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Reboot",
+    "type_code": "event",
+    "faction_code": "apex",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Office Supplies",
+    "type_code": "event",
+    "faction_code": "sunny-lebeau",
+    "pack_code": "rar"
+  },
+  {
+    "title": "DJ Fenris",
+    "type_code": "resource",
+    "faction_code": "neutral-runner",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Sportsmetal: Go Big or Go Home",
+    "type_code": "identity",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Hyperloop Extension",
+    "type_code": "agenda",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Meridian",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Gatekeeper",
+    "type_code": "ice",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Divert Power",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Fast Break",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Game Changer",
+    "type_code": "operation",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Giordano Memorial Field",
+    "type_code": "upgrade",
+    "faction_code": "haas-bioroid",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Saraswati Mnemonics: Endless Exploration",
+    "type_code": "identity",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Jumon",
+    "type_code": "agenda",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "API-S Keeper Isobel",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Neurostasis",
+    "type_code": "asset",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Otoroshi",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Thimblerig",
+    "type_code": "ice",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Hangeki",
+    "type_code": "operation",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Daruma",
+    "type_code": "upgrade",
+    "faction_code": "jinteki",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Acme Consulting: The Truth You Need",
+    "type_code": "identity",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Fly on the Wall",
+    "type_code": "agenda",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "SIU",
+    "type_code": "asset",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Peeping Tom",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Hydra",
+    "type_code": "ice",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Eavesdrop",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Attitude Adjustment",
+    "type_code": "operation",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Arella Salvatore",
+    "type_code": "upgrade",
+    "faction_code": "nbn",
+    "pack_code": "rar"
+  },
+  {
+    "title": "The Outfit: Family Owned and Operated",
+    "type_code": "identity",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Broad Daylight",
+    "type_code": "agenda",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Drudge Work",
+    "type_code": "asset",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Blockchain",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Formicary",
+    "type_code": "ice",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Building Blocks",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Too Big to Fail",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Under the Bus",
+    "type_code": "operation",
+    "faction_code": "weyland-consortium",
+    "pack_code": "rar"
+  },
+  {
+    "title": "Lady Liberty",
+    "type_code": "asset",
+    "faction_code": "neutral-corp",
+    "pack_code": "rar"
+  }
+]

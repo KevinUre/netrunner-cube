@@ -1,0 +1,28 @@
+{
+  "factions": {
+    "anarch": 186,
+    "criminal": 193,
+    "shaper": 195,
+    "neutral-runner": 87,
+    "haas-bioroid": 184,
+    "jinteki": 173,
+    "nbn": 176,
+    "weyland-consortium": 191,
+    "neutral-corp": 113,
+    "apex": 12,
+    "adam": 12,
+    "sunny-lebeau": 12
+  },
+  "types": {
+    "identity": 95,
+    "event": 176,
+    "hardware": 108,
+    "program": 191,
+    "resource": 178,
+    "agenda": 128,
+    "asset": 158,
+    "operation": 168,
+    "ice": 246,
+    "upgrade": 86
+  }
+}
