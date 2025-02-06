@@ -46,7 +46,7 @@ function hookAjax() {
 
 var fdb = new ForerunnerDB(); fdb.db('netrunnerdb').collection('master_cards').remove();
 
-await fdb.db('netrunnerdb').collection('master_cards').load(()=>{}); fdb.db('netrunnerdb')
+var fdb = new ForerunnerDB(); await fdb.db('netrunnerdb').collection('master_cards').load(()=>{}); fdb.db('netrunnerdb')
 var fdb = new ForerunnerDB(); await fdb.db('netrunnerdb').collection('master_cards').setData([]); await fdb.db('netrunnerdb').save(()=>{});
 
 $.ajax = function(settings) {
